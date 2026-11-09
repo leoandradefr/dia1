@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://leoandradefr.github.io/dia1/sitemap.xml
